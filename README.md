@@ -1,1 +1,1 @@
-# This is an implementation of parallel rank sort algorithm
+# This is an implementation of parallel rank sort algorithm using cuda
